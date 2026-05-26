@@ -1,0 +1,20 @@
+# Python virtual environment
+esr/
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large datasets
+final_dataset.csv
+esr_dataset_15k_final.csv
+
+# OS / editor
+.vscode/
+.DS_Store
+Thumbs.db
